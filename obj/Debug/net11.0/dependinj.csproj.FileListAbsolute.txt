@@ -1,0 +1,16 @@
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.AssemblyInfo.cs
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\vsul\dependinj\bin\Debug\net11.0\dependinj.exe
+C:\Users\Joe\Desktop\vsul\dependinj\bin\Debug\net11.0\dependinj.deps.json
+C:\Users\Joe\Desktop\vsul\dependinj\bin\Debug\net11.0\dependinj.runtimeconfig.json
+C:\Users\Joe\Desktop\vsul\dependinj\bin\Debug\net11.0\dependinj.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\vsul\dependinj\bin\Debug\net11.0\dependinj.dll
+C:\Users\Joe\Desktop\vsul\dependinj\bin\Debug\net11.0\dependinj.pdb
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.dll
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\refint\dependinj.dll
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.pdb
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.genruntimeconfig.cache
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\ref\dependinj.dll
+C:\Users\Joe\Desktop\vsul\dependinj\obj\Debug\net11.0\dependinj.csproj.Up2Date
